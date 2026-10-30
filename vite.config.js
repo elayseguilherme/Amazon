@@ -3,5 +3,5 @@ const vue = require('@vitejs/plugin-vue')
 
 module.exports = defineConfig({
   plugins: [vue()],
-  base: './',
+  base: '/Amazon/',
 })
